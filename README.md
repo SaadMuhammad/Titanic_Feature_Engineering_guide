@@ -2,4 +2,4 @@
 
 # A Beginners guide to feature engineering, imputations and statistical visualizations
 
-![Screenshot](D1.JPEG)
+![Screenshot](D1.jpg)
